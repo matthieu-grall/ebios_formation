@@ -1,11 +1,18 @@
 # Le kit de formation à la méthode EBIOS _Risk Manager_
 
-**Ce projet vise à corriger le kit de formation à la méthode EBIOS _Risk Manager_** (présentation, livret stagiaire, livret formateur) soumis pour commentaires au Club EBIOS par l'ANSSI en 2024 :
-- tout ce qui n'a pas été pris en compte parmi les nombreuses améliorations proposées à la version de 2020, qui a donc été partiellement récupéré ;
-- ce qui est faux méthodologiquement (environ un tiers), qui a donc été corrigé ;
-- ce qui est hors sujet pour une formation sur EBIOS _Risk Manager_ (environ un tiers, ex : messages de sensibilisation de la SSI en général), qui a donc été retiré ;
-- ce qui est beaucoup trop détaillé pour apprendre à mettre en oeuvre la méthode (environ un tiers), qui a donc été retiré, mais qui peut, si on le souhaite, être trouvé dans les guides de la méthode.
+**Ce projet vise à mettre à jour le kit de formation à la méthode EBIOS _Risk Manager_** :
+- la présentation ;
+- le livret stagiaire ;
+- le livret formateur.
 
-Il reste surtout... les productions visuelles... qui demeurent très sympathiques.
+Il a notamment exploité le kit créé par l’ANSSI et le Club EBIOS, ainsi que les améliorations proposées par ses membres :
+- récupération d'améliorations proposées par les membres du Club EBIOS sur la version de 2020, mais qui n'ont pas été prises en compte dans la version de 2023 ;
+- correction des erreurs méthodologiques et des incohérences dans la version de 2023 ;
+- suppression des éléments marketing, obsolètes, de culture générale, trop détaillés ou inutiles dans le cadre d’une formation à EBIOS _Risk Manager_ ;
+- récupération de certaines illustrations ;
+- amélioration de la cohérence avec les normes ;
+- ajout d’explications ;
+- mise en évidence des outils de la boîte à outils ;
+- améliorations mineures diverses (changement de modèle, mises en forme, animations, harmonisation de termes, etc.).
 
-Au vu de l'étendue du travail à effectuer, pour l'instant, **seule la présentation est en cours de reprise**.
+Pour l'instant, **seule la présentation est en cours de reprise**.

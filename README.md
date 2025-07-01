@@ -16,4 +16,4 @@ Il a notamment exploité le kit créé par l’ANSSI et le Club EBIOS, ainsi que
 - mise en évidence des outils de la boîte à outils ;
 - améliorations mineures diverses (changement de modèle, mises en forme, animations, harmonisation de termes, etc.).
 
-Pour l'instant, **seule la présentation et le livret stagiaires sont en cours de reprise**.
+Pour l'instant, **seuls la présentation et le livret stagiaire sont en cours de reprise**.

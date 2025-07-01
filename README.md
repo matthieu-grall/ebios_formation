@@ -7,6 +7,7 @@
 
 Il a notamment exploité le kit créé par l’ANSSI et le Club EBIOS, ainsi que les améliorations proposées par ses membres :
 - récupération d'améliorations proposées par les membres du Club EBIOS sur la version de 2020, mais qui n'ont pas été prises en compte dans la version de 2023 ;
+- récupération des éléments disparus dans (l'espace et) le temps (correction de l'étude de cas, livret formateur) ;
 - correction des erreurs méthodologiques et des incohérences dans la version de 2023 ;
 - suppression des éléments marketing, obsolètes, de culture générale, trop détaillés ou inutiles dans le cadre d’une formation à EBIOS _Risk Manager_ ;
 - récupération de certaines illustrations ;
@@ -15,4 +16,4 @@ Il a notamment exploité le kit créé par l’ANSSI et le Club EBIOS, ainsi que
 - mise en évidence des outils de la boîte à outils ;
 - améliorations mineures diverses (changement de modèle, mises en forme, animations, harmonisation de termes, etc.).
 
-Pour l'instant, **seule la présentation est en cours de reprise**.
+Pour l'instant, **seule la présentation et le livret stagiaires sont en cours de reprise**.

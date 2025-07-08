@@ -12,8 +12,8 @@ Il a notamment exploité le kit créé par l’ANSSI et le Club EBIOS, ainsi que
 - suppression des éléments marketing, obsolètes, de culture générale, trop détaillés ou inutiles dans le cadre d’une formation à EBIOS _Risk Manager_ ;
 - récupération de certaines illustrations ;
 - amélioration de la cohérence avec les normes ;
-- ajout d’explications ;
+- ajout d’explications et d'exercices ;
 - mise en évidence des outils de la boîte à outils ;
 - améliorations mineures diverses (changement de modèle, mises en forme, animations, harmonisation de termes, etc.).
 
-Pour l'instant, **seuls la présentation et le livret stagiaire sont en cours de reprise**.
+Pour l'instant, **seuls la présentation et le livret stagiaire ont été repris**.

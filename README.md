@@ -1,6 +1,6 @@
 # Le kit de formation à la méthode EBIOS _Risk Manager_
 
-**Ce projet vise à mettre à jour le kit de formation à la méthode EBIOS _Risk Manager_** :
+**Ce projet vise à mettre et tenir à jour le kit de formation à la méthode EBIOS _Risk Manager_** :
 - la présentation ;
 - le livret stagiaire ;
 - le livret formateur.
@@ -15,5 +15,3 @@ Il a notamment exploité le kit créé par l’ANSSI et le Club EBIOS, ainsi que
 - ajout d’explications et d'exercices ;
 - mise en évidence des outils de la boîte à outils ;
 - améliorations mineures diverses (changement de modèle, mises en forme, animations, harmonisation de termes, etc.).
-
-Pour l'instant, **seuls la présentation et le livret stagiaire ont été repris**.
